@@ -1,14 +1,12 @@
-﻿Compilación iniciada a las 31/01/2015 14:58:15.
+﻿Compilación iniciada a las 31/01/2015 15:23:26.
      1>Proyecto "C:\Users\x0F346\Documents\Visual Studio 2012\Projects\zPlugin\zPlugin\zPlugin.vcxproj" en el nodo 2 (Build destinos).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D ZPLUGIN_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt zPlugin.cpp
-         zPlugin.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\x0F346\Documents\Visual Studio 2012\Projects\zPlugin\Debug\zPlugin.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"zPlugin.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\x0F346\Documents\Visual Studio 2012\Projects\zPlugin\Debug\zPlugin.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\x0F346\Documents\Visual Studio 2012\Projects\zPlugin\Debug\zPlugin.lib" /MACHINE:X86 /DLL Debug\amxplugin.obj
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\x0F346\Documents\Visual Studio 2012\Projects\zPlugin\Debug\BrainFuck.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"zPlugin.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\x0F346\Documents\Visual Studio 2012\Projects\zPlugin\Debug\BrainFuck.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\x0F346\Documents\Visual Studio 2012\Projects\zPlugin\Debug\BrainFuck.lib" /MACHINE:X86 /DLL Debug\amxplugin.obj
          Debug\zPlugin.obj
-         zPlugin.vcxproj -> C:\Users\x0F346\Documents\Visual Studio 2012\Projects\zPlugin\Debug\zPlugin.dll
+            Creando biblioteca C:\Users\x0F346\Documents\Visual Studio 2012\Projects\zPlugin\Debug\BrainFuck.lib y objeto C:\Users\x0F346\Documents\Visual Studio 2012\Projects\zPlugin\Debug\BrainFuck.exp
+         zPlugin.vcxproj -> C:\Users\x0F346\Documents\Visual Studio 2012\Projects\zPlugin\Debug\BrainFuck.dll
      1>Compilación del proyecto terminada "C:\Users\x0F346\Documents\Visual Studio 2012\Projects\zPlugin\zPlugin\zPlugin.vcxproj" (Build destinos).
 
 Compilación correcta.
 
-Tiempo transcurrido 00:00:03.12
+Tiempo transcurrido 00:00:01.46
